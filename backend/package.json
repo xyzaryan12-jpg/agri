@@ -1,7 +1,6 @@
 {
   "name": "agripower-backend",
   "version": "1.0.0",
-  "type": "module",
   "description": "Backend API for Electric Power Distribution for Agriculture",
   "main": "server.js",
   "scripts": {
